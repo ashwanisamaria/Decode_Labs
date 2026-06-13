@@ -9,7 +9,7 @@ This chatbot simulates human-like conversation using predefined rules and dictio
 ## 🚀 Live Demo
 
 🌐 Try it here:  
-**https://your-render-link.onrender.com**
+**https://decode-labs-chatbot.onrender.com/**
 
 ---
 
